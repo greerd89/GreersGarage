@@ -153,7 +153,7 @@ div.desc {
 }
 /*Adds padding and centers text to any div with the id of desc*/
 
-/*id level CSS */
+/*class level CSS */
 .about {
   margin: auto;
   text-align: justify;
@@ -226,7 +226,7 @@ div.desc {
 }
 /*Gives a background color gradient, border with radius*/
 
-/*class level CSS */
+/*id level CSS */
 #navbar {
   list-style-type: none;
   margin: 0;
